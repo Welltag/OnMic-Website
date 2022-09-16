@@ -553,6 +553,8 @@ img{
 
   vertical-align: top;
   opacity: 0.85;
+  width: 150px;
+  height: 150px
 }
 
 .stfs .banner {
